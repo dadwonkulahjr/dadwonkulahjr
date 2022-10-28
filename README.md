@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dadwonkulahjr, A computer programmer
-I'm currently my MSc. in Information ℹ️ Technically at Halmstad University Sweden 🇸🇪
+I'm currently pursuing my MSc. in Information ℹ️ Technically at Halmstad University Sweden 🇸🇪
 - 👀 I’m interested in C# Development and also Python Development...
 - 🌱 I’m currently learning Python for Data Science using libraries like Pandas,Numpy, Matplotlib and Seaborn
 for Data visualization ...
