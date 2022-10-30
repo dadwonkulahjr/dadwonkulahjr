@@ -3,7 +3,7 @@
 - 👀 I’m interested in C# Development and also Python Development...
 - 🌱 I’m currently learning Python for Data Science/Machine Learning and Artificial Intelligence.
 -  I have used libraries like Pandas,Numpy, Matplotlib and Seaborn, looking forward to more interesting liberies and technologies using the Python Programing Language!
-- 💞️ I’m looking forward to collaborate on projects using C# or Python. For now I am more fluent in C# ASPNET CORE Web Application. I have used technologies like Razor Pages, MVC, Entity Frameworkcore, experienced with Code-First Approach. I have good skills-set with LINQ in C#, one of my favorite technologies in ASPNET CORE for querying multiples dataset.
+- 💞️ I’m looking forward to collaborate on projects using C# or Python. For now I am more fluent in C# ASPNET CORE Web Application. I have used technologies like Razor Pages, MVC, Entity Frameworkcore and REST WEB API, experienced with Code-First Approach. I have good skills-set with LINQ in C#, one of my favorite technologies in ASPNET CORE for querying multiples dataset.
 - 📫 Feel free to reach me by email:dadwonkulahjr96@gmail.com or dadwon22@student.hh.se
 
 <!---
