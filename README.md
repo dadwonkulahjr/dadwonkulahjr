@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dadwonkulahjr, a computer programmer. 
+- 👋 Hi, I’m @dadwonkulahjr, a computer programmer. I live in Sweden, Halmstad City!
 - I'm currently pursuing my MSc. in Information ℹ️ Technology at Halmstad University, Sweden 🇸🇪
 - 👀 I’m interested in C# Development and also Python Development...
 - 🌱 I’m currently learning Python for Data Science/Machine Learning and Artificial Intelligence.
