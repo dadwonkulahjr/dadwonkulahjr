@@ -12,7 +12,6 @@
     <li>C#</li>
     <li>SQL</li>
     <li>.NET Standard/Core</li>
-    <hr/>
     <li>Azure DevOps</li>
     <li>Microsoft Azure Cloud</li>
   </ul>
